@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geekBrains2_4", "geekBrains2_4\geekBrains2_4.csproj", "{6FA7F30A-58CA-4515-95AC-C7C70A132FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geekBrains_Node", "geekBrains_Node\geekBrains_Node.csproj", "{1AE6ACE4-E246-476F-9486-413C836D718E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA7F30A-58CA-4515-95AC-C7C70A132FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA7F30A-58CA-4515-95AC-C7C70A132FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA7F30A-58CA-4515-95AC-C7C70A132FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA7F30A-58CA-4515-95AC-C7C70A132FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE6ACE4-E246-476F-9486-413C836D718E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE6ACE4-E246-476F-9486-413C836D718E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE6ACE4-E246-476F-9486-413C836D718E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE6ACE4-E246-476F-9486-413C836D718E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A324D48C-736F-4B5B-8707-5EC6DF628504}
+	EndGlobalSection
+EndGlobal
